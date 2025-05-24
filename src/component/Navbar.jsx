@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../assets/logo.png';
 
-const Header = () => {
+const Navbar = () => {
   return (
     <div className="w-full font-poppins">
       <div className="flex items-center justify-between mx-16 px-3 py-2 text-xl font-medium text-sm text-gray-500 border-b mt-2">
@@ -26,6 +26,6 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Navbar;
 
 

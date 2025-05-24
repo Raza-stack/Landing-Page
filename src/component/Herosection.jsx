@@ -61,8 +61,10 @@ const Herosection = () => {
                 </button>
 
             </div>
+
         </div>
-    );
+    )
+
 };
 
 export default Herosection;
